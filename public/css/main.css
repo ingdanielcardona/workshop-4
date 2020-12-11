@@ -1,5 +1,7 @@
 .img-title {
   width: 20%;/*coloquen el tamaño a gusto*/
+  display: block;
+  margin: auto;
 }
 
 /* section {
